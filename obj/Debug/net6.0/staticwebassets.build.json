@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "c0RtcVY0B/NR3YSciTwOC70wIeGdhvtYyvQ/F5LNzZU=",
+  "Source": "BankingBrokerage.API",
+  "BasePath": "_content/BankingBrokerage.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
